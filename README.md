@@ -4,7 +4,7 @@
 Frontend Developer
 ------------------
 
-I am a frontend developer with 3 years of UI/UX design experience. I love seeing the amazing results when technology meets art. I have experience with HTML, CSS, and JavaScript, as well as modern frameworks like React and Next.js.
+I am a frontend developer with 3 years of UI/UX design experience. I love seeing the amazing results when technology meets art. I have experience with HTML, CSS, JavaScript, and TypeScript, as well as modern frameworks like React and Next.js.
 
 * 🌍  I'm based in Gimhae, South Korea
 * ✉️  You can contact me at [jihyun9142@gmail.com](mailto:jihyun9142@gmail.com)
